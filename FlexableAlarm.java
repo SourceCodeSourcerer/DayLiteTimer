@@ -1,29 +1,10 @@
 /**
- * Copyright (C) 2005-2013, Stefan Strömberg <stestr@nethome.nu>
+ * Copyright (C) 2010-2013, Peter Lagerhem <peter@lagerhem.com>
  *
- * This file is part of OpenNetHome.
+ * This file is a homeitem plugin to be used as part of OpenNetHome.
+ * NetHome is Copyright (C) 2005-2013, Stefan Strömberg <stestr@nethome.nu>
  *
- * OpenNetHome is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- *
- * OpenNetHome is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
- */
-
-/**
- *
- * @author Peter Lagerhem
- * Started: 2010-10-10
- *
- * History:
- * 2010-10-31 Fixed the sunset/sunrise calculation call.
+ * @author Peter Lagerhem - Started: 2010-10-10
  *
  */
 package nu.nethome.home.items.timer;
