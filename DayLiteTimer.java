@@ -46,7 +46,7 @@ import java.util.logging.Logger;
  * @see AlarmItem
  */
 @Plugin
-public class DayLiteTimer extends WeekTimer implements HomeItem{
+public class DayLiteTimer extends WeekTimer implements HomeItem {
 
 	private static Logger logger = Logger.getLogger(DayLiteTimer.class
 			.getName());
